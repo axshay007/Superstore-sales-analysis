@@ -1,5 +1,5 @@
 # Superstore-sales-analysis
-**Project Summary: Vrinda Store Annual Sales Report (2022)**
+**Super Store Annual Sales Report (2022)**
 
 **Overview:**
 This project aims to create an interactive dashboard in Excel for Vrinda Store's annual sales report of 2022. By leveraging data cleaning, processing, analytics, visualization, and report creation skills, the dashboard will provide valuable insights to help Vrinda Store understand their customers and strategize for increased sales in 2023.
